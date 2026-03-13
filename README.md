@@ -110,14 +110,3 @@ Active Share was computed for 154 Spanish equity funds from December 1999 to Jun
 - A small subset of funds showed Active Share below 10%, suggesting closet indexing
 
 ---
-
-## Data Sources
-
-- Fund portfolio data: [CNMV](https://www.cnmv.es) & [Morningstar Direct](https://www.morningstar.com)
-- IBEX-35 historical composition: [BME](https://www.bolsasymercados.es)
-
----
-
-## Reference
-
-Cremers, M. & Petajisto, A. (2009). *How Active Is Your Fund Manager? A New Measure that Predicts Performance*. Review of Financial Studies, 22(9).
